@@ -1,0 +1,17 @@
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\bin\Debug\Graf.exe.config
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\bin\Debug\Graf.exe
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\bin\Debug\Graf.pdb
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\bin\Debug\Microsoft.Msagl.dll
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\bin\Debug\Microsoft.Msagl.xml
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\obj\Debug\Graf.csprojAssemblyReference.cache
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\obj\Debug\Graf.Form1.resources
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\obj\Debug\Graf.Properties.Resources.resources
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\obj\Debug\Graf.csproj.GenerateResource.cache
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\obj\Debug\Graf.csproj.CoreCompileInputs.cache
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\obj\Debug\Graf.csproj.CopyComplete
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\obj\Debug\Graf.exe
+C:\Users\patry\Desktop\Grafy w informatyce\Projekt\Graf\Graf\obj\Debug\Graf.pdb
